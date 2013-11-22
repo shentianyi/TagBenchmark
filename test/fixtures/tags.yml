@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  entity_type_id: MyString
+  entity_id: MyString
+  tag: MyString
+
+two:
+  entity_type_id: MyString
+  entity_id: MyString
+  tag: MyString
